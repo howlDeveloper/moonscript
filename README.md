@@ -4,7 +4,7 @@ O MoonScript é uma lib cujo o objetivo é adicionar funções do JavaScript na 
 
 ## motivação ⭐️ 
 
-O MoonScript foi criado por <a href="GitHub.com/howlDeveloper>Howl</a>, foi criado apenas por diversão.
+O MoonScript foi criado por <a href="gitHub.com/howlDeveloper>Howl</a>, foi criado apenas por diversão.
 
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
 
