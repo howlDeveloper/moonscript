@@ -16,7 +16,7 @@ Eu não tenho planos para continuar desenvolvendo o MoonScript mas talvez no fut
 
 por enquanto o MoonScript têm apenas 5 funções.
 
-- console.log:
+-- console.log:
 
 ```lua
 
