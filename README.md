@@ -12,7 +12,7 @@ O MoonScript foi criado por <a href="GitHub.com/howlDeveloper>Howl</a>, foi cria
 
 Eu não tenho planos para continuar desenvolvendo o MoonScript mas talvez no futuro eu irei continuar desenvolvendo.
 
-## wiki
+## wiki ℹ️
 
 por enquanto o MoonScript têm apenas 5 funções.
 
@@ -30,7 +30,7 @@ retorna:
 hello world
 ```
 
-console.warn:
+### console.warn:
 
 ```lua
 
@@ -45,7 +45,7 @@ retorna:
 
 ```
 
-console.error:
+### console.error:
 
 ```lua
 
@@ -61,7 +61,7 @@ retorna:
 
 ```
 
-console.info:
+### console.info:
 
 ```lua
 
@@ -77,7 +77,7 @@ retorna:
 
 ```
 
-console.count:
+### console.count:
 
 ```lua
 
