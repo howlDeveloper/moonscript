@@ -29,3 +29,67 @@ retorna:
 ```
 hello world
 ```
+
+console.warn:
+
+```lua
+
+moonscript.console:warn("hello world")
+
+```
+
+retorna:
+
+```
+@moonscript Console:Warn [hello world]
+
+```
+
+console.error:
+
+```lua
+
+moonscript.console:error("hello world")
+
+```
+
+retorna: 
+
+```
+
+@moonscript Console:Error [hello world]
+
+```
+
+console.info:
+
+```lua
+
+moonscript.console:info(table)
+
+```
+
+retorna:
+
+```
+
+{}
+
+```
+
+console.count:
+
+```lua
+
+moonscript.console:count(1, 10)
+
+```
+
+retorna:
+
+```
+
+@moonscript Console:Count [1 > 10]
+
+```
+
