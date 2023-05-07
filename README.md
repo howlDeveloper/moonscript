@@ -10,7 +10,7 @@ O MoonScript foi criado por <a href="https://github.com/howlDeveloper">Howl</a>,
 
 ## O MoonScript será continuado? 😲
 
-Eu não tenho planos para continuar desenvolvendo o MoonScript mas talvez no futuro eu irei continuar desenvolvendo.
+Eu não tenho planos para continuar desenvolvendo o MoonScript.
 
 ## wiki ℹ️
 
