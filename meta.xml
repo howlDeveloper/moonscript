@@ -6,7 +6,7 @@
     <script src="src/core/function/client/console.lua" type="client"/>
 
     <!--Test file-->
-    <script src="dist.lua" type="client"/>
+    <script src="example.lua" type="client"/>
     
     <min_mta_version client="1.5.8-9.20854"></min_mta_version>
 </meta>
